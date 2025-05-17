@@ -12,12 +12,14 @@ Models trained: Logistic Regression and Random Forest
 Performance evaluated using Accuracy, F1 Score, Confusion Matrix, and Classification Report
 
 # Results
-Model	Accuracy	F1 Score
-Logistic Regression	94.5%	0.92
-Random Forest	96.0%	0.94
+| Model               | Accuracy | F1 Score |
+|---------------------|----------|----------|
+| Logistic Regression  | 94.5%    | 0.92     |
+| Random Forest       | 96.0%    | 0.94     |
+
 Confusion matrices and classification reports were generated to analyze model performance in detail.
 
-How to Run
+# How to Run
 Clone the repository
 
 Install dependencies:
