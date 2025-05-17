@@ -23,6 +23,7 @@ Clone the repository
 Install dependencies:
 ```bash
 `pip install -r requirements.txt`
+```
 
 Run the Jupyter Notebook file CreditCardFraudDetection.ipynb
 
